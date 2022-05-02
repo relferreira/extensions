@@ -1,4 +1,9 @@
 {
-  "menus": [],
+  "menus": [
+    {
+      "label": "Price",
+      "href": "https://www.raycast.com/pricing"
+    }
+  ],
   "sidebar": []
 }
