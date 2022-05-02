@@ -1,6 +1,10 @@
 {
   "menus": [
     {
+      "label": "Home",
+      "href": "https://www.raycast.com"
+    },
+    {
       "label": "Price",
       "href": "https://www.raycast.com/pricing"
     }
